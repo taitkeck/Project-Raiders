@@ -1,0 +1,13 @@
+aioredis
+bcrypt
+beanie
+black
+iso4217parse # for currency codes
+itsdangerous # for starlette sessions
+Faker
+fastapi
+fastapi-jwt-auth
+fastapi-mail
+httpx
+python-decouple
+uvicorn
